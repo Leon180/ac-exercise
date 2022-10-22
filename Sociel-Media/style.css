@@ -1,0 +1,51 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+.navbar {
+  background-color: #fafafa;
+}
+
+.show-member:hover {
+  position: relative;
+  cursor: pointer;
+  border: none;
+  opacity: 80%;
+}
+
+#pagination a {
+  color: black;
+  border: none;
+}
+
+#pagination a:focus {
+  opacity: 70%;
+}
+
+.modal-dialog {
+  opacity: 95%;
+}
+
+.modal img {
+  height: 300px;
+  opacity: 100%;
+}
+
+.modal-spinner-box {
+  height: 300px;
+  width: 300px;
+  background-color: #dadade;
+  opacity: 60%;
+}
+
+.card-spinner-box {
+  height: 254px;
+  background-color: #dadade;
+  opacity: 60%;
+}
+
+.navbar .dropdown-toggle:hover {
+  font-weight: bold;
+}

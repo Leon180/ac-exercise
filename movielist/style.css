@@ -1,0 +1,11 @@
+i.fa {
+  cursor: pointer;
+}
+
+i.fa:hover {
+  color: #0d6efd;
+}
+
+.switch-active {
+  color: #0d6efd;
+}
